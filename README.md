@@ -7,8 +7,11 @@ A bot designed to read from a Firestore database of quotes and run every twelve 
 - Once your project is created, add a Firestore Database. 
 - Start a new collection named "quotes".
 - To start adding your favorite quotes, add a new document (any name is fine). Under the document, add three fields:
+  
 Field: "alreadyquoted"  Type: boolean   Value: false
+
 Field: "quote"  Type:string  Value: "if quote, insert the text for your favorite quote here. if an image, paste the image link here"
+
 Field: "type"  Type:string  Value: "if quote, set value to 'string'. if image, set to 'image'."
 
 # Setup - Twitter Developer Portal

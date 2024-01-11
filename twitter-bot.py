@@ -9,7 +9,7 @@ from firebase_admin import firestore
 import urllib.request
 
 # initialize service account
-cred = credentials.Certificate("#name of the file with your Firebase credentials")
+cred = credentials.Certificate(keys.firebase_credentials)
 firebase_admin.initialize_app(cred)
 db = firestore.client()
 

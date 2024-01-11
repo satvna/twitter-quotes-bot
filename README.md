@@ -1,5 +1,5 @@
 # About
-A bot designed to read from a Firestore database of quotes and run every twelve hours, then tweet a random entry from that database.
+A bot designed to tweet a random entry from a database of quotes every 12 hours.
 
 # Setup - Firestore
 - Create a [Firebase](https://firebase.google.com/) account. Once in the console, create a project.

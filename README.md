@@ -1,7 +1,7 @@
 # What does this do?
 After uploading images, text, and video to Firestore, this bot will post an entry randomly every 12 hours. It keeps track of which tweets have already been uploaded, and will stop posting if all entries have been tweeted.
 
-![image](https://github.com/user-attachments/assets/a47fedba-5e62-49b6-8a4f-3c390a3c4982)
+![image](https://github.com/user-attachments/assets/a47fedba-5e62-49b6-8a4f-3c390a3c4982 | width = 100)
 *An example of the bot*
 
 
